@@ -64,8 +64,8 @@ public class AlienGame extends JPanel implements ActionListener { //main class
 	static JFrame endMenu, menu; 
 	static GridLayout menuLayout; 
 
-	static ImageIcon alien = new ImageIcon ("H:/alien.png"); 
-	static ImageIcon alienDead = new ImageIcon ("H:/alien dead.png"); 
+	static ImageIcon alien = new ImageIcon ("alien.png"); 
+	static ImageIcon alienDead = new ImageIcon ("alien dead.png"); 
 
 	static Font titleFont = new Font("Calibri", Font.BOLD, 20);
 	static Font normalFont = new Font("Calibri", Font.PLAIN, 14);
